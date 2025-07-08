@@ -7,7 +7,7 @@
 proxy-providers:
 
   Bitz:
-    url: "https://s3.bbdmfetch.com/api/v1/client/subscribe?token=0ef2d6aaea0fff863b193065fada61e5"
+    url: "  "
     type: http
     interval: 86400
     health-check:
